@@ -2,7 +2,6 @@
 
 This react app was built from scratch without any scaffolding code.
 
-![](demo.png)
 
 Quick start:
 
